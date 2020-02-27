@@ -1,5 +1,4 @@
-# TFIDF-HadoopMapReduce-
-Implementation of TF-IDF using Map reduce Hadoop
+# TFIDF-HadoopMapReduce- Implementation of TF-IDF using Map reduce Hadoop
 
 Terminologies:
 TF-IDF is the product of two statistics : Term Frequency (TF) and Inverse Document Frequency (IDF).
